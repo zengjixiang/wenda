@@ -7,7 +7,7 @@ sqlalchemy_utils
 transformers==4.37.1
 faiss-cpu
 sentence_transformers
-langchain==0.0.344
+langchain==0.1.0
 pdfplumber
 InstructorEmbedding
 tiktoken
